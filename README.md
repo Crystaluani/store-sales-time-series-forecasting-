@@ -15,6 +15,11 @@ The dataset consists of the following CSV files:
 - `test.csv`: Sales data for testing.
 - `sample_submission.csv`: Submission format for predictions.
 
+  
+## Visual Details
+- I created a combined csv file 'visualization_data' to create a more detailed visual using tableau.
+
+
 ## Tools & Libraries
 The following tools and libraries were used:
 - **Python**: Data analysis and modeling
